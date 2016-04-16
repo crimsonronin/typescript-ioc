@@ -1,0 +1,5 @@
+node_modules
+build
+.idea
+app/**/*.js
+app/**/*.map
